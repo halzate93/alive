@@ -1,7 +1,7 @@
 # Alive: Deep Beneath
 Project developed for COMP-4980 Virtual Reality at Thompson Rivers University.
 <br>
-*Survival Horror, Puzzle*
+**Genre:***Survival Horror, Puzzle*
 <br>
 The player awakes in the middle of an underground maze, finding himself deep down the sewers of an old part of a big city, 
 no trace of light can be seen besides some broken and flickering lights. Besides the player, there is somebody or something 
